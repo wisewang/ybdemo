@@ -1,0 +1,62 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1000px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u161_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:674px;
+}
+#u161 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:674px;
+}
+#u162 {
+  position:absolute;
+  left:2px;
+  top:329px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u163_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:20px;
+}
+#u163 {
+  position:absolute;
+  left:171px;
+  top:65px;
+  width:156px;
+  height:20px;
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  font-size:26px;
+  color:#118D71;
+}
+#u164 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:152px;
+  word-wrap:break-word;
+}
